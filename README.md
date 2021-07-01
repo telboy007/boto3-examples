@@ -1,3 +1,3 @@
-# boto3-examples
+# python-code-examples
 
-Grabbing some AWS / boto3 code examples used in a previous job.
+Some AWS / boto3 code examples used in a previous job, circle CI integration and AWS cognito auth fun times.
